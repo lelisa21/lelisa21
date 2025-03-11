@@ -1,4 +1,4 @@
-## Hi there
+## About Me
 -->
   ☆  My name is Lelisa Hailu 
 - 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University...
