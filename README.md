@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Full+Stack+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -43,15 +43,10 @@ Passionate about creating elegant, responsive web applications with modern techn
 <div align="center">
   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lelisa21&theme=radical&hide_border=true&background=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelisa21&hide=contribs&show_icons=true&&theme=radical)
 
 </div>
 
-
-## 📈 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ##  Me
 
@@ -67,6 +62,6 @@ Passionate about creating elegant, responsive web applications with modern techn
   
 
 
-⭐️ From ![Lelisa Hailu](https://github.com/lelisa21)
+⭐️ From [Lelisa Hailu](https://github.com/lelisa21)
 
 </div>
