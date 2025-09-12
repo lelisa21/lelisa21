@@ -38,14 +38,7 @@ Passionate about creating elegant, responsive web applications with modern techn
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelisa21&hide=contribs&show_icons=true&&theme=radical)
-
-</div>
 
 
 ##  Me
