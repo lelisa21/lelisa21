@@ -44,7 +44,7 @@ Passionate about creating elegant, responsive web applications with modern techn
 ##  Me
 
 - 🔭 I'm currently Learining  **Software Engineering at AASTU**
-- 🌱 I'm learning **advanced TypeScript patterns at ALX**
+- 🌱 I'm learning **advanced TypeScript,next.js patterns at ALX**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **frontend optimization techniques**
 - ⚡ Fun fact: I love **coding challenges** and **algorithm problems**
