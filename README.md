@@ -39,7 +39,7 @@ Passionate about creating elegant, responsive web applications with modern techn
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
+  <!-- [![Laloo github stats](https://github-readme-stats.vercel.app/api?username=lelisa21)](https://github.com/lelisa21/github-readme-stats) -->
 
 ##  Me
 
