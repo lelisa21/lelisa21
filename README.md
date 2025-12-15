@@ -4,7 +4,8 @@
 
 <div align="center">
   
-# 👨‍💻 Hello!  I'm Lelisa Hailu
+![Profile views](https://komarev.com/ghpvc/?username=lelisa21&label=Profile%20Views&color=blue&style=flat)
+#  Hello!  I'm Lelisa Hailu
 
 ### Software Engineering Student | Frontend developer
 
@@ -17,7 +18,9 @@ Passionate about creating elegant, responsive web applications with modern techn
 
 </div>
 
-## 🚀 Technologies & Tools
+
+
+##  Technologies & Tools
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
