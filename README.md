@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Full+Stack+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=AF46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Full+Stack+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -47,7 +47,7 @@ Passionate about creating elegant, responsive web applications with modern techn
 ##  Me
 
 - 🔭 I'm currently Learining  **Software Engineering at AASTU**
-- 🌱 I'm learning **advanced TypeScript,next.js patterns at ALX**
+- 🌱 I'm graduated from ALX with  **advanced TypeScript,next.js patterns**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **frontend optimization techniques**
 - ⚡ Fun fact: I love **coding challenges** and **algorithm problems**
