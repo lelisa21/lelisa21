@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=AF46E5&center=true&vCenter=true&width=500&lines=Mern+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=AF46E5&center=true&vCenter=true&width=500&lines=React+Developer;Mern+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -7,9 +7,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=lelisa21&label=Profile%20Views&color=blue&style=flat)
 #  Hello!  I'm Lelisa Hailu
 
-### Software Engineering Student | Frontend developer
+### Software Engineering Student | React | MERN-Stack developer
 
-Passionate about creating elegant, responsive web applications with modern technologies. Currently expanding my expertise in frontend development Specialist.
+Passionate about creating elegant, responsive web applications with modern technologies. Currently expanding my expertise in Full-stack development Specialist.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://github.com/lelisa21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lelisa21)
@@ -30,10 +30,19 @@ Passionate about creating elegant, responsive web applications with modern techn
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend Development
+![Nodejs](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
+![Express](https://img.shields.io/badge/expressjs-F7DF1E?style=for-the-badge&logo=expressjs&logoColor=black)
+![Nodejs](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
+###Database
+![mongodb](https://img.shields.io/badge/mongodb-F7DF1E?style=for-the-badge&logo=mongodb&logoColor=black)
+![mySql](https://img.shields.io/badge/mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
+
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white);
+![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white);
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
