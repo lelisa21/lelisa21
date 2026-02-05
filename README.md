@@ -31,18 +31,17 @@ Passionate about creating elegant, responsive web applications with modern techn
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
-![Nodejs](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
-![Express](https://img.shields.io/badge/expressjs-F7DF1E?style=for-the-badge&logo=expressjs&logoColor=black)
-![Nodejs](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
-###Database
+![Nodejs](https://img.shields.io/badge/Nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
+![Express](https://img.shields.io/badge/Expressjs-F7DF1E?style=for-the-badge&logo=expressjs&logoColor=black)
+### Database
 ![mongodb](https://img.shields.io/badge/mongodb-F7DF1E?style=for-the-badge&logo=mongodb&logoColor=black)
 ![mySql](https://img.shields.io/badge/mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white);
-![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white);
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
