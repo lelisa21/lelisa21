@@ -39,17 +39,17 @@
 
 ##  Featured Projects
 
-###  [Reunite](https://github.com/Reunite-organization) — *Missing Person Platform*
+###  [Reunite](https://github.com/Reunite-organization) : *Missing Person Platform*
 Social impact platform for reporting missing persons and reconnecting families.  
 **Role:** Project Manager & Full Stack Developer  
 **Stack:** React • Node.js • Express • MongoDB • Socket.io • Redis
 
-###  [GreatTeam EMS](https://github.com/lelisa21/PRODIGY_FS_02) — *Employee Management System* 
+###  [GreatTeam EMS](https://github.com/lelisa21/PRODIGY_FS_02) : *Employee Management System* 
 Dashboard supporting HR workflows, attendance tracking, and scalable CRUD operations.  
 **Role:** Full Stack Developer  
 **Stack:** React • Node.js • Express • MongoDB • Socket.io
 
-###  [Pollify](https://github.com/lelisa21/alx-project-nexus) — *Real-Time Polling App* 
+###  [Pollify](https://github.com/lelisa21/alx-project-nexus) : *Real-Time Polling App* 
 Create, share, and vote on polls with live result updates via WebSockets.  
 **Stack:** React • Node.js • Socket.io • MongoDB
 
@@ -76,30 +76,31 @@ Consolidated projects from ALX Professional Frontend Development track.
 
 ## Experience
 
-- **Full Stack Web Developer Intern** — [Prodigy InfoTech](https://www.prodigyinfotech.dev)  
+- **Full Stack Web Developer Intern** :  [Prodigy InfoTech](https://www.prodigyinfotech.dev)  
   *Built full stack features, API integration, and deployment workflows*
 
-- **Professional Frontend Development** — [ALX Africa](https://www.alxafrica.com)  
+- **Professional Frontend Development** :  [ALX Africa](https://www.alxafrica.com)  
   *Intensive training in modern frontend technologies, TypeScript, and Next.js, react Native*
 
-- **Training Program (2025)** — [GDG AASTU](https://gdg.community.dev/gdg-on-campus-addis-ababa-science-and-technology-university-addis-ababa-ethiopia)  
+- **Training Program (2025)** :  [GDG AASTU](https://gdg.community.dev/gdg-on-campus-addis-ababa-science-and-technology-university-addis-ababa-ethiopia)  
   *Hands-on workshops in Google technologies and collaborative development*
 
 
 ##  Certifications
 
-- **Front-End Web Development** — [ALX Africa](https://www.alxafrica.com)
-- **Professional Front-End Development** — [ALX Africa](https://www.alxafrica.com)  
-- **Responsive Web Design** — [FreeCodeCamp](https://www.freecodecamp.org)
-- **DSA by JavaScript** — [FreeCodeCamp](https://www.freecodecamp.org)
-- **Training Program Certificate (2025)** — [GDG AASTU]([https://gdg.community.dev](https://gdg.community.dev/gdg-on-campus-addis-ababa-science-and-technology-university-addis-ababa-ethiopia/))
+- **Front-End Web Development**  :  [ALX Africa](https://www.alxafrica.com)
+- **Professional Front-End Development** :  [ALX Africa](https://www.alxafrica.com)
+- **Backend by Node.js/Express.js and with MongoDB database**: GDG_AASTU
+- **Responsive Web Design** :  [FreeCodeCamp](https://www.freecodecamp.org)
+- **DSA by JavaScript** :  [FreeCodeCamp](https://www.freecodecamp.org)
+- **Training Program Certificate (2025)** :  [GDG AASTU]([https://gdg.community.dev](https://gdg.community.dev/gdg-on-campus-addis-ababa-science-and-technology-university-addis-ababa-ethiopia/))
 
 
 ### Personal Strengths
--  **Self Learner** — Continuously mastering new technologies through hands-on projects and self-directed study
--  **Problem Solver** — Strong foundation in DSA, system design, and algorithmic thinking
--  **Trilingual Communicator** — Fluent in English, native in Amharic and Afan Oromo
--  **Team Collaborator** — Experienced in project management and peer mentoring roles
+-  **Self Learner** :  Continuously mastering new technologies through hands-on projects and self-directed study
+-  **Problem Solver** :  Strong foundation in DSA, system design, and algorithmic thinking
+-  **Trilingual Communicator** : Fluent in English, native in Amharic and Afan Oromo
+-  **Team Collaborator** :  Experienced in project management and peer mentoring roles
   
 
 
