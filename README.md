@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-mu-azure.vercel.app/api?username=lelisa21&show_icons=true&rank_icon=github&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=lelisa21&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=lelisa21&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /> -->
 </p>
 
 
@@ -44,7 +44,7 @@ Social impact platform for reporting missing persons and reconnecting families.
 **Role:** Project Manager & Full Stack Developer  
 **Stack:** React • Node.js • Express • MongoDB • Socket.io • Redis
 
-###  [GreatTeam EMS](https://github.com/lelisa21/PRODIGY_FS_02) : *Employee Management System* 
+###  [GreatTeam EMS](https://github.com/lelisa21/greatTeam-EMS) : *Employee Management System* 
 Dashboard supporting HR workflows, attendance tracking, and scalable CRUD operations.  
 **Role:** Full Stack Developer  
 **Stack:** React • Node.js • Express • MongoDB • Socket.io
