@@ -76,6 +76,11 @@ Consolidated projects from ALX Professional Frontend Development track.
 
 ## Experience
 
+## Experience
+
+- **Backend Engineer Intern** :  [Gebeta Maps](https://gebeta.app)  
+  *June 2026 – Present | Building real-world systems with Go, PostgreSQL, and modern backend tooling*
+
 - **Full Stack Web Developer Intern** :  [Prodigy InfoTech](https://www.prodigyinfotech.dev)  
   *Built full stack features, API integration, and deployment workflows*
 
