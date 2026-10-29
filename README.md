@@ -32,7 +32,7 @@ Over the past year I’ve shipped real-time systems, solid REST APIs, and platfo
 
 - **Back End Developer Intern** : [Gebeta Maps](https://gebeta.app)  
   *Jun 2026 – Present · Remote*  
-  Writing and maintaining Go backend services for Ethiopia-focused navigation (real-time traffic, routing, location features).
+  Writing and maintaining Go backend services.
 
 - **Full Stack Engineer Intern** : [SWENETIX Tech](https://swenetix.com)  
   *Aug 2026 – Oct 2026 · On-site*  
